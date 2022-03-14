@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+
+    <string name="set_time">تنظیم زمان</string>
+    <string name="accept"> "تایید"</string>
+    <string name="reject"> "انصراف"</string>
+</resources>
